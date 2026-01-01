@@ -6,7 +6,9 @@ AI-driven analytics platform that monitors, predicts, and explains global search
 
 ### Prerequisites
 - Docker & Docker Compose
-- 4GB+ RAM
+- 4GB+ RAM__
+
+
 
 ### Installation (3 steps)
 
@@ -118,3 +120,4 @@ MIT License - see LICENSE file
 ---
 
 Built with ❤️ for data science
+
